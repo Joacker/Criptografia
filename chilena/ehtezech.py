@@ -34,7 +34,7 @@ if __name__ == "__main__":
         email.send_keys("duvirasy@musiccode.me")
         pwd = driver.find_element_by_name("password")
         pwd.clear()
-        newText = ''.join(random.choice(cadena) for j in range(random.randrange(5,50)))
+        newText = ''.join(random.choice(cadena) for j in range(random.randrange(5,70)))
         pwd.send_keys(newText)
         print("password: "+ newText)
         driver.find_element_by_id("submit-login").click()
