@@ -17,7 +17,7 @@ sudo mv ~/Descargas/chromedriver /usr/local/bin
 ```bash
 pip3 install selenium
 ```
-En caso de estar usando windows ek comando sería el siguiente
+En caso de estar usando windows el comando sería el siguiente
 ```bash
 pip install selenium
 ```
