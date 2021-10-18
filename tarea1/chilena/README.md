@@ -8,7 +8,7 @@ Activar el driver
 ```bash
 ./chromedriver
 ```
-En caso de estar usando windows el comando tendría que cambiar de la siguiente forma:
+En caso de estar usando windows el comando tendría que cambiar de la siguiente forma (favor de replicar el mismo comando pero variando el nombre del script):
 ```bash
 python .\ehtezech.py
 ```
