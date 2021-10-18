@@ -8,7 +8,10 @@ Activar el driver
 ```bash
 ./chromedriver
 ```
-
+En caso de estar usando windows el comando tendría que cambiar de la siguiente forma (favor de replicar el mismo comando pero variando el nombre del script):
+```bash
+python .\ehtezech.py
+```
 Para ejecutar ataque por fuerza bruta escribir en la terminal
 ```bash
 python3 elpepe.py
