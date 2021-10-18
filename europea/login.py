@@ -27,7 +27,7 @@ def login():
     username.send_keys("ChupeteSuazo")
     pwd = driver.find_element_by_name("clave")
     pwd.clear()
-    pwd.send_keys('1234567')
+    pwd.send_keys('123456')
     driver.find_element_by_class_name("botonformulario").submit()
     time.sleep(5)
     driver.get('https://www.rebellion.es/tiendarebel/logintienda.php?error=si')
