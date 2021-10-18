@@ -1,0 +1,33 @@
+# Pagina Chilena
+
+Entrar al directorio del driver:
+```bash
+cd /usr/local/bin
+```
+Activar el driver
+```bash
+./chromedriver
+```
+
+Para ejecutar ataque por fuerza bruta escribir en la terminal
+```bash
+python3 ehtezech.py
+```
+
+Para ejecución de registro automatizado escribir en la terminal
+```bash
+python3 registro.py
+```
+
+Para ejecución de login
+```bash
+python3 login.py
+```
+Para ejecución de cambio de contraseña
+```bash
+python3 changepass.py
+```
+Para ejecución de passrecovery
+```bash
+python3 passrecovery.py
+```
