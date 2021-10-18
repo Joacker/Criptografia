@@ -10,3 +10,10 @@
 6. Chrome-Driver [(ver aquí)](https://sites.google.com/chromium.org/driver/).
 
 ---
+```bash
+sudo mv ~/Descargas/chromedriver /usr/local/bin
+```
+
+```bash
+pip3 install selenium
+```
