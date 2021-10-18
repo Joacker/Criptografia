@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 #/usr/local/bin/chromedriver
 driver_path = '/usr/local/bin/chromedriver'
 
-def login():
+def cambio():
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -45,4 +45,4 @@ def login():
 
 if __name__ == "__main__":
     #Variables
-    login()
+    cambio()
