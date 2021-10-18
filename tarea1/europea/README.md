@@ -28,7 +28,7 @@ python3 login.py
 ```
 Para ejecución de cambio de contraseña
 ```bash
-python3 changepass.py
+python3 change_pass.py
 ```
 Para ejecución de passrecovery
 ```bash
